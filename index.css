@@ -1,0 +1,75 @@
+header {
+    border: 30px solid Violet;border-style: outset;
+    padding: 35px;
+    text-align: center;
+    font-size: xx-large;
+}
+nav { 
+text-align: center;
+font-size: larger;
+font-family:geramond;
+
+}
+
+.category {
+    background-color: lightblue;
+    font-size: medium; 
+}
+
+nav li {
+   padding:3%;
+    color: purple;
+    background-color: 
+    lightblue;
+    display: inline-block;
+}
+
+img {
+    height: 30%;
+    width: 30%;
+    margin-left: 1cm;
+}
+
+
+h2 {
+text-align: center;
+font-size: medium;
+margin-inline-start: auto;
+}
+
+body {
+    background-color: lightblue;
+}
+
+form {
+    text-align: center;
+    justify-content: left;
+    font-size: x-large;
+}
+
+input {
+    width: 30%;
+}
+
+.about {
+font-family: garamond;
+font-size: x-large;
+line-height: 30px;
+text-align: left;
+}
+
+
+.newList {
+font-family: garamond; font-size: x-large;
+}
+
+
+
+
+
+
+
+
+
+
+
